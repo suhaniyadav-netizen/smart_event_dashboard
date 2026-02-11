@@ -59,17 +59,4 @@ Smart-Event-Dashboard
 * 11th Feb 2026
 * Wev Dev Assignment 1
 * Btech Cyber Security sem 2 
-
-
-
-
-
-
-
-
-
-
-
-
-Created as a Web Development assignment/project to demonstrate
-**DOM manipulation and dynamic event management using JavaScript.**
+---
